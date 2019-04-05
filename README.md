@@ -8,4 +8,4 @@ Firstly, an analysis of already existing FPS games and their scenery design will
 
 Then, a specific prototype model will be created by Unity3D to simulate the stage that the players possibly meet. Many elements can be changed in this model and the feedback from testers will be recorded. The method "control variable" will be implemented.
 
-Finally, the results will be analyzed and a conclusion will be made.
+Finally, the results will be analyzed comprehensively and a full conclusion will be made.
